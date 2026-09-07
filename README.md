@@ -1,10 +1,4 @@
 ---
-## **Features**
-- **Blazing fast performance** powered by Astro
-- **Beautifully styled** with Tailwind CSS
-- **Spotify integration** for showcasing your favorite album
-- **Working contact form** powered by Formspree
-- **Interactive UI** including the `<LetterGlitch />` component from [ReactBits.dev](https://www.reactbits.dev/)
 
 ## **Stack**  
 ### **Frontend**  
@@ -16,3 +10,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-c900c3?logo=canva&logoColor=white)
+
+## **Features**
+- **Blazing fast performance** powered by Astro
+- **Beautifully styled** with Tailwind CSS
+- **Working contact form** powered by Formspree
+- **Interactive UI** including the `<LetterGlitch />` component from [ReactBits.dev](https://www.reactbits.dev/)
+
+
