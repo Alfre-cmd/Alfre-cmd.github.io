@@ -4,7 +4,7 @@ const CategoryIcons = {
   "Desarrollo Web": (
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-app-window-mac text-[var(--sec)]"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="M6 8h.01"/><path d="M10 8h.01"/><path d="M14 8h.01"/></svg>
   ),
-  "Mobile Development": (
+  "Backend & Bases de Datos": (
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-tablet-smartphone text-[var(--sec)]"><rect width="10" height="14" x="3" y="8" rx="2"/><path d="M5 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2h-2.4"/><path d="M8 18h.01"/></svg>
   ),
   "UI/UX Design & Prototyping": (
@@ -17,18 +17,17 @@ const SkillsList = () => {
 
   const skills = {
     "Desarrollo Web": [
-      "Sitio Web de una sola pagina ",
-      "sitios web empresariales",
-      "Portafolio websites",
+      "Desarrollo Full-Stack con PHP, Node.js y React.",
+      "Creación de CMS a la medida y paneles de administración.",
+      "Automatización de tareas y optimización con Gulp y npm.",
     ],
-    "Mobile Development": [
-      "Mobile-friendly web apps",
-      "React Native mobile apps",
+    "Backend & Bases de Datos": [
+      "Diseño y gestión de bases de datos relacionales (MySQL, PostgreSQL).",
+      "Implementación de sistemas de autenticación y seguridad.",
     ],
     "UI/UX Design & Prototyping": [
-      "UI design with Figma & Canva",
-      "UX research & improvements",
-      "Prototyping for websites & mobile apps",
+      "Prototipado de flujos de usuario para sistemas web.",
+      "Optimización de pantallas basadas en requerimientos del negocio.",
     ],
   };
 
