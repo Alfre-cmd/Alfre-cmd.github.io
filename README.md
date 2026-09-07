@@ -1,7 +1,4 @@
 ---
-
-[Demo](https://darkminimal.vercel.app) | [Astro Themes](https://astro.build/themes/details/darkminimal/) | [ReactBits Showcase](https://www.reactbits.dev/showcase) 
-
 ## **Features**
 - **Blazing fast performance** powered by Astro
 - **Beautifully styled** with Tailwind CSS
