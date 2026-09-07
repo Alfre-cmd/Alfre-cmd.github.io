@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const CategoryIcons = {
-  "Web Development": (
+  "Desarrollo Web": (
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="lucide lucide-app-window-mac text-[var(--sec)]"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="M6 8h.01"/><path d="M10 8h.01"/><path d="M14 8h.01"/></svg>
   ),
   "Mobile Development": (
@@ -16,10 +16,10 @@ const SkillsList = () => {
   const [openItem, setOpenItem] = useState<string | null>(null);
 
   const skills = {
-    "Web Development": [
-      "Single Page Applications (SPAs)",
-      "Landing pages and business websites",
-      "Portfolio websites",
+    "Desarrollo Web": [
+      "Sitio Web de una sola pagina ",
+      "sitios web empresariales",
+      "Portafolio websites",
     ],
     "Mobile Development": [
       "Mobile-friendly web apps",
